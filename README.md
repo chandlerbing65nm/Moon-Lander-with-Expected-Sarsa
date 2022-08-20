@@ -20,6 +20,3 @@
   >
 </p>
 
----
-
-# About the Project
